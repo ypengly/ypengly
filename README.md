@@ -1,20 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1419,50:1A2332,100:2F4F6F&height=220&section=header&text=PENGLY%20Y.&fontSize=62&fontColor=F7F5F0&fontAlignY=38&desc=ASPIRING%20SOFTWARE%20DEVELOPER%20%C2%B7%20BUILT%20ON%20CURIOSITY&descAlignY=60&descSize=17&descColor=CADCF0&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,35:15243B,100:2F4F6F&height=230&section=header&text=PENGLY%20Y.&fontSize=64&fontColor=F7F5F0&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%40%20SINCH%20%C2%B7%20BUILT%20ON%20CURIOSITY&descAlignY=60&descSize=17&descColor=A9C6E8&animation=fadeIn" />
 
 <a href="https://github.com/ypengly">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+ideas+into+working+software.;Currently+building+with+C%23%2C+PHP%2C+and+React.;Open+to+internships+%26+entry-level+roles.;Phnom+Penh%2C+Cambodia+%F0%9F%87%B0%F0%9F%87%AD;&font=Fira+Code&center=true&width=560&height=40&duration=3200&pause=900&color=2F4F6F&vCenter=true&size=17" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+ideas+into+working+software.;Building+with+C%23%2C+PHP%2C+and+React.;Currently+at+Sinch%2C+Phnom+Penh.;Always+chasing+the+next+curious+problem.;&font=Fira+Code&center=true&width=580&height=40&duration=3200&pause=1000&color=2F4F6F&vCenter=true&size=17" alt="Typing SVG" />
 </a>
 
 <br>
 
-<sub>`VOL. I · No. 001` &nbsp;·&nbsp; `PHNOM PENH, CAMBODIA` &nbsp;·&nbsp; `FILED UNDER: INFORMATION TECHNOLOGY`</sub>
+<sub>`VOL. I · No. 002` &nbsp;·&nbsp; `PHNOM PENH, CAMBODIA` &nbsp;·&nbsp; `FILED UNDER: INFORMATION TECHNOLOGY`</sub>
 
 <br><br>
 
-[![Status](https://img.shields.io/static/v1?label=STATUS&message=OPEN%20TO%20WORK&color=2F4F6F&style=for-the-badge&labelColor=1A1A18)](mailto:ypengly060@gmail.com)
-[![Location](https://img.shields.io/static/v1?label=BASED%20IN&message=PHNOM%20PENH&color=2F4F6F&style=for-the-badge&labelColor=1A1A18)](#)
-[![Languages](https://img.shields.io/static/v1?label=SPEAKS&message=KHMER%20%7C%20ENGLISH&color=2F4F6F&style=for-the-badge&labelColor=1A1A18)](#)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&section=header" width="55%" />
+
+<br><br>
+
+[![Status](https://img.shields.io/static/v1?label=CURRENTLY&message=SOFTWARE%20DEV%20%40%20SINCH&color=2F4F6F&style=for-the-badge&labelColor=0A0E14)](https://www.linkedin.com/in/y-pengly-276720423/)
+[![Location](https://img.shields.io/static/v1?label=BASED%20IN&message=PHNOM%20PENH&color=2F4F6F&style=for-the-badge&labelColor=0A0E14)](#)
+[![Languages](https://img.shields.io/static/v1?label=SPEAKS&message=KHMER%20%7C%20ENGLISH&color=2F4F6F&style=for-the-badge&labelColor=0A0E14)](#)
 
 <br>
 
@@ -28,7 +32,7 @@
 
 > *"Adaptable in new environments, driven by curiosity, and always looking for ways to turn technology into practical solutions."*
 
-Recent graduate with a **B.Sc. in Computer Science & Engineering** (Royal University of Phnom Penh) and a **B.A. in English · Professional Communication** (Institute of Foreign Languages). I build practical software and communicate it clearly — currently open to internships, entry-level, and freelance work in software, mobile, or IT.
+Software developer at **Sinch**, with a **B.Sc. in Computer Science & Engineering** (Royal University of Phnom Penh) and a **B.A. in English · Professional Communication** (Institute of Foreign Languages). I build practical software and communicate it clearly.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=4" width="100%" />
 
@@ -161,7 +165,7 @@ Event management tool for tracking wedding guests, RSVPs, and gifts.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/static/v1?label=&message=PORTFOLIO&color=1A1A18&style=for-the-badge&logo=googlechrome&logoColor=F7F5F0)](https://ypengly.github.io/)
+[![Portfolio](https://img.shields.io/static/v1?label=&message=PORTFOLIO&color=0A0E14&style=for-the-badge&logo=googlechrome&logoColor=F7F5F0)](https://ypengly.github.io/)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LINKEDIN&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=F7F5F0)](https://www.linkedin.com/in/y-pengly-276720423/)
 [![Telegram](https://img.shields.io/static/v1?label=&message=TELEGRAM&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=F7F5F0)](https://t.me/Pengly_27)
 [![Email](https://img.shields.io/static/v1?label=&message=EMAIL&color=EA4335&style=for-the-badge&logo=gmail&logoColor=F7F5F0)](mailto:ypengly060@gmail.com)
@@ -176,7 +180,7 @@ Event management tool for tracking wedding guests, RSVPs, and gifts.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F4F6F,50:1A2332,100:0F1419&height=140&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F4F6F,65:15243B,100:0A0E14&height=150&section=footer" />
 
 <div align="center">
 <sub>© 2026 PENGLY Y. &nbsp;·&nbsp; SET IN PLAYFAIR DISPLAY & INTER &nbsp;·&nbsp; BOENG KENG KANG III, PHNOM PENH</sub>
