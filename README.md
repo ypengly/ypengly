@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A18&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A18&height=2&section=header&animation=fadeIn" width="100%"/>
 
 <br>
 
@@ -12,7 +12,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=15&duration=3200&pause=1400&color=55534C&center=true&vCenter=true&width=560&height=30&letterSpacing=4px&lines=VOL.+I+%E2%80%94+ISSUE+001;PHNOM+PENH+%C2%B7+CAMBODIA;FILED+UNDER%3A+INFORMATION+TECHNOLOGY" alt="masthead"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=CAC6BA&height=1&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=CAC6BA&height=1&section=header&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -24,7 +24,7 @@
 <td align="center">·</td>
 <td align="center">SOFTWARE&nbsp;·&nbsp;MOBILE&nbsp;·&nbsp;WEB&nbsp;·&nbsp;IT</td>
 <td align="center">·</td>
-<td align="center">KHMER&nbsp;/&nbsp;ENGLISH</td>
+<td align="center">KHMER&nbsp;(NATIVE)&nbsp;/&nbsp;ENGLISH&nbsp;(UPPER-INT.)</td>
 </tr>
 </table>
 
@@ -38,7 +38,9 @@
 
 **ASPIRING SOFTWARE DEVELOPER — BUILT ON CURIOSITY**
 
-> *"Adaptable in new environments, driven by curiosity, and always looking for ways to turn technology into practical solutions."*
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&italic=true&size=16&duration=4200&pause=2200&color=2F4F6F&center=true&vCenter=true&width=620&height=60&lines=%22Adaptable+in+new+environments%2C+driven+by+curiosity%2C%22;%22and+always+looking+to+turn+technology+into%22;%22practical+solutions.%22" alt="pull quote"/>
+</div>
 
 Recent graduate with a **B.Sc. in Computer Science & Engineering** from the Royal University of Phnom Penh, and a **B.A. in English — Professional Communication** from the Institute of Foreign Languages.
 
@@ -59,13 +61,11 @@ I build practical software and communicate technical ideas clearly. My interests
 
 `C# / .NET`&nbsp;&nbsp;&nbsp;`POSTGRESQL`
 
-Real-time café management system with orders, products, reports, and design-pattern-driven architecture.
+Real-time café management system with orders, products, and reports, built on Strategy, Command, Observer, Template Method, and State design patterns.
 
 ```
 CUSTOMER → ORDER → KITCHEN → PAYMENT → REPORTS
 ```
-
-`VIEW PROJECT →`
 
 <sub>────────────────────────────────────────────</sub>
 
@@ -74,13 +74,55 @@ CUSTOMER → ORDER → KITCHEN → PAYMENT → REPORTS
 
 `HTML / CSS`&nbsp;&nbsp;&nbsp;`PHP / MYSQL`
 
-Responsive hotel booking system with backend reservation management.
+Responsive hotel booking site with a PHP/MySQL backend handling reservations behind the scenes.
 
 ```
 GUEST → ROOM → BOOKING → PAYMENT → ADMIN
 ```
 
-`VIEW PROJECT →`
+<sub>────────────────────────────────────────────</sub>
+
+**03 / QR CODE CONVERTER**
+<br>UTILITY TOOL
+
+`JAVASCRIPT`
+
+Instantly converts text or URLs into scannable QR codes.
+
+[`LAUNCH TOOL →`](https://ypengly.github.io/QR_code_coverter/)
+
+<sub>────────────────────────────────────────────</sub>
+
+**04 / DIGITAL SIGNATURE CREATOR**
+<br>UTILITY TOOL
+
+`JAVASCRIPT`
+
+Draw, type, or upload a signature and export it as a transparent PNG.
+
+[`LAUNCH TOOL →`](https://ypengly.github.io/Digital-signature-creator/)
+
+<sub>────────────────────────────────────────────</sub>
+
+**05 / BAC-II ENGLISH EXAM ARCHIVE**
+<br>REFERENCE ARCHIVE
+
+`HTML / CSS`
+
+A comprehensive collection of past Bac-II English exams for exam preparation.
+
+[`EXPLORE ARCHIVE →`](https://ypengly.github.io/Bac-II-English-Exam-Archive/)
+
+<sub>────────────────────────────────────────────</sub>
+
+**06 / WEDDING GUEST & GIFT MANAGER**
+<br>EVENT MANAGEMENT TOOL
+
+`JAVASCRIPT`
+
+Tracks wedding guests, RSVPs, and gifts in one lightweight interface.
+
+[`LAUNCH TOOL →`](https://ypengly.github.io/wedding-gift-tracker/)
 
 <sub>────────────────────────────────────────────</sub>
 
@@ -183,7 +225,7 @@ DEVELOPER
 ### 04 ─────────────────────────────────── THE ARCHIVE
 
 <table width="100%">
-<tr><td width="15%"><sub>2022</sub></td><td><b>HIGH SCHOOL DIPLOMA</b><br><sub>Srey Santhor High School</sub></td></tr>
+<tr><td width="15%"><sub>2022</sub></td><td><b>HIGH SCHOOL DIPLOMA</b><br><sub>Srey Santhor High School, Kampong Cham</sub></td></tr>
 <tr><td colspan="2"><sub>│</sub></td></tr>
 <tr><td width="15%"><sub>2023—2026</sub></td><td><b>B.Sc. COMPUTER SCIENCE & ENGINEERING</b><br><sub>Royal University of Phnom Penh</sub></td></tr>
 <tr><td colspan="2"><sub>│</sub></td></tr>
@@ -201,12 +243,11 @@ DEVELOPER
 ### 05 ─────────────────────────────────── SIDE NOTES
 
 ```
-01 / QR CODE CONVERTER ........................ VIEW →
-02 / DIGITAL SIGNATURE CREATOR ................ VIEW →
-03 / BAC-II ENGLISH EXAM ARCHIVE .............. VIEW →
-04 / WEDDING GUEST & GIFT MANAGER ............. VIEW →
-05 / RANDOM MINI TASKS GENERATOR .............. VIEW →
+01 / FOUNDATIONS IN CODE ...................... C / C++ · OOP · DATA STRUCTURES
+02 / RANDOM MINI TASKS GENERATOR .............. JAVASCRIPT
 ```
+
+<sub>A running collection of programs exploring object-oriented design, data structures, and algorithm efficiency — plus a small JS tool that generates quick random tasks for daily productivity.</sub>
 
 <br>
 
@@ -221,19 +262,19 @@ DEVELOPER
 <table width="100%">
 <tr>
 <td>PORTFOLIO →</td>
-<td><a href="#">yourportfolio.com</a></td>
+<td><a href="https://ypengly.github.io/">ypengly.github.io</a></td>
 </tr>
 <tr>
 <td>LINKEDIN →</td>
-<td><a href="#">linkedin.com/in/yourhandle</a></td>
+<td><a href="https://www.linkedin.com/in/y-pengly-276720423/">linkedin.com/in/y-pengly</a></td>
 </tr>
 <tr>
 <td>TELEGRAM →</td>
-<td><a href="#">t.me/yourhandle</a></td>
+<td><a href="https://t.me/Pengly_27">t.me/Pengly_27</a></td>
 </tr>
 <tr>
 <td>EMAIL →</td>
-<td><a href="#">you@email.com</a></td>
+<td><a href="mailto:ypengly060@gmail.com">ypengly060@gmail.com</a></td>
 </tr>
 </table>
 
@@ -241,14 +282,14 @@ DEVELOPER
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=CAC6BA&height=1&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=CAC6BA&height=1&section=header&animation=fadeIn" width="100%"/>
 
 **PENGLY Y.**
 
 <sub>SOFTWARE · COMMUNICATION · CURIOSITY</sub>
 
-<sub>VOL. I · 2026 · PHNOM PENH, CAMBODIA</sub>
+<sub>VOL. I · 2026 · BOENG KENG KANG III, PHNOM PENH, CAMBODIA</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A18&height=2&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A18&height=2&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
