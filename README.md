@@ -8,7 +8,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1A1A18&height=3" />
 
-<sub>`VOL. I — No. 001` &nbsp;·&nbsp; `PHNOM PENH, CAMBODIA` &nbsp;·&nbsp; `FILED UNDER: INFORMATION TECHNOLOGY`</sub>
+<sub>`VOL. I · No. 001` &nbsp;·&nbsp; `PHNOM PENH, CAMBODIA` &nbsp;·&nbsp; `FILED UNDER: INFORMATION TECHNOLOGY`</sub>
 
 <br><br>
 
@@ -28,26 +28,26 @@
 
 > *"Adaptable in new environments, driven by curiosity, and always looking for ways to turn technology into practical solutions."*
 
-Recent graduate with a **B.Sc. in Computer Science & Engineering** (Royal University of Phnom Penh) and a **B.A. in English — Professional Communication** (Institute of Foreign Languages). I build practical software and communicate it clearly — currently open to internships, entry-level, and freelance work in software, mobile, or IT.
+Recent graduate with a **B.Sc. in Computer Science & Engineering** (Royal University of Phnom Penh) and a **B.A. in English · Professional Communication** (Institute of Foreign Languages). I build practical software and communicate it clearly · currently open to internships, entry-level, and freelance work in software, mobile, or IT.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=CAC6BA&height=1" width="100%" />
 
-## 📖 Section B — Featured Stories
+## 📖 Section B · Featured Stories
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Café System — Smart POS Platform
+### 💻 Café System · Smart POS Platform
 ![C#](https://img.shields.io/static/v1?label=&message=C%23.NET&color=EEF1F4&style=flat-square&labelColor=EEF1F4&logo=csharp&logoColor=2F4F6F)
 ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=EEF1F4&style=flat-square&labelColor=EEF1F4&logo=postgresql&logoColor=2F4F6F)
 
-Real-time café management system with orders, products, and reports — built using Strategy, Command, Observer, Template Method, and State design patterns.
+Real-time café management system with orders, products, and reports · built using Strategy, Command, Observer, Template Method, and State design patterns.
 
 </td>
 <td width="50%" valign="top">
 
-### 🏨 The Front Desk, Online — Hotel Website
+### 🏨 The Front Desk, Online · Hotel Website
 ![HTML](https://img.shields.io/static/v1?label=&message=HTML/CSS&color=EEF1F4&style=flat-square&labelColor=EEF1F4&logo=html5&logoColor=2F4F6F)
 ![PHP](https://img.shields.io/static/v1?label=&message=PHP/MySQL&color=EEF1F4&style=flat-square&labelColor=EEF1F4&logo=php&logoColor=2F4F6F)
 
@@ -70,7 +70,7 @@ A running collection of programs exploring object-oriented design, data structur
 ### 🎲 Random Mini Tasks Generator
 ![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=EEF1F4&style=flat-square&labelColor=EEF1F4&logo=javascript&logoColor=2F4F6F)
 
-A simple tool that generates quick random tasks to keep you productive — perfect for small daily challenges.
+A simple tool that generates quick random tasks to keep you productive · perfect for small daily challenges.
 
 </td>
 </tr>
@@ -114,7 +114,7 @@ Event management tool for tracking wedding guests, RSVPs, and gifts.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=CAC6BA&height=1" width="100%" />
 
-## 🗂️ Section D — Classifieds: Skills on Offer
+## 🗂️ Section D · Classifieds: Skills on Offer
 
 <table>
 <tr>
@@ -136,9 +136,9 @@ Event management tool for tracking wedding guests, RSVPs, and gifts.
 
 **SPOKEN**
 <br><br>
-🇰🇭 Khmer — Native
+🇰🇭 Khmer · Native
 <br>
-🇬🇧 English — Upper-Intermediate
+🇬🇧 English · Upper-Intermediate
 
 </td>
 </tr>
@@ -146,34 +146,28 @@ Event management tool for tracking wedding guests, RSVPs, and gifts.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=CAC6BA&height=1" width="100%" />
 
-## 📊 Section E — By the Numbers
+## 📊 Section E · By the Numbers
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ypengly&show_icons=true&hide_title=false&title_color=2F4F6F&text_color=1A1A18&icon_color=2F4F6F&bg_color=00000000&border_color=CAC6BA&hide_border=false&border_radius=0&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ypengly&background=00000000&border=CAC6BA&ring=2F4F6F&fire=2F4F6F&currStreakLabel=1A1A18&currStreakNum=1A1A18&sideLabels=55534C&sideNums=1A1A18&dates=83807A&border_radius=0" />
+<img height="165" src="https://streak-stats.demolab.com/?user=ypengly&background=00000000&border=CAC6BA&ring=2F4F6F&fire=2F4F6F&currStreakLabel=1A1A18&currStreakNum=1A1A18&sideLabels=55534C&sideNums=1A1A18&dates=83807A&border_radius=0" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypengly&layout=compact&title_color=2F4F6F&text_color=1A1A18&bg_color=00000000&border_color=CAC6BA&hide_border=false&border_radius=0&langs_count=8" />
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ypengly&theme=gruvbox&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
-
 </div>
 
-> **Note on this section:** if any card above still shows a broken-image icon on your live profile, it's almost always the public `vercel.app` stats service being rate-limited (a very common, well-documented issue — not a mistake in your markdown). Two reliable fixes:
-> 1. Right-click each broken image → open in new tab → if it shows a JSON error, wait a few minutes and hard-refresh (GitHub caches these aggressively — you may need to append `&cache=` + a random number to force a refresh once).
-> 2. For a permanent fix, deploy your own free copy of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) to your own Vercel account, then swap the domain in the URLs above for yours.
+<sub>Stat cards pull live from GitHub · if one shows a broken-image icon, hard-refresh the page (these are cached and occasionally rate-limited by the free hosting service behind them).</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=CAC6BA&height=1" width="100%" />
 
-## 🕰️ Section F — The Archive: Education & Training
+## 🕰️ Section F · The Archive: Education & Training
 
 | Date | Entry |
 |---|---|
-| **2022** | High School Diploma — Srey Santhor High School, Kampong Cham |
-| **2023 – 2026** | B.Sc. Computer Science & Engineering — Royal University of Phnom Penh |
-| **2023 – 2026** | B.A. English (Professional Communication) — Institute of Foreign Languages |
+| **2022** | High School Diploma · Srey Santhor High School, Kampong Cham |
+| **2023 – 2026** | B.Sc. Computer Science & Engineering · Royal University of Phnom Penh |
+| **2023 – 2026** | B.A. English (Professional Communication) · Institute of Foreign Languages |
 | **Training** | C/C++, OOP, Java, PHP, algorithms, MySQL, then HTML/CSS/Bootstrap/JS/React/Tailwind |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=CAC6BA&height=1" width="100%" />
