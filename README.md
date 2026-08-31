@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,35:15243B,100:2F4F6F&height=230&section=header&text=PENGLY%20Y.&fontSize=64&fontColor=F7F5F0&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%40%20SINCH%20%C2%B7%20BUILT%20ON%20CURIOSITY&descAlignY=60&descSize=17&descColor=A9C6E8&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,35:15243B,100:2F4F6F&height=230&section=header&text=PENGLY%20Y.&fontSize=64&fontColor=F7F5F0&fontAlignY=36&desc=WORKING%20AT%20%40%20SINCH%20%C2%B7%20BUILT%20ON%20CURIOSITY&descAlignY=60&descSize=17&descColor=A9C6E8&animation=fadeIn" />
 
 <a href="https://github.com/ypengly">
   <img src="https://readme-typing-svg.demolab.com/?lines=Turning+ideas+into+working+software.;Building+with+C%23%2C+PHP%2C+and+React.;Currently+at+Sinch%2C+Phnom+Penh.;Always+chasing+the+next+curious+problem.;&font=Fira+Code&center=true&width=580&height=40&duration=3200&pause=1000&color=2F4F6F&vCenter=true&size=17" alt="Typing SVG" />
@@ -22,7 +22,22 @@
 
 <br>
 
-<sub>📑 &nbsp;<a href="#-front-page">Front Page</a> &nbsp;·&nbsp; <a href="#-section-b--featured-stories">Featured Stories</a> &nbsp;·&nbsp; <a href="#-section-c--classifieds-skills-on-offer">Classifieds</a> &nbsp;·&nbsp; <a href="#-section-d--the-archive-education--training">Archive</a> &nbsp;·&nbsp; <a href="#-correspondence">Correspondence</a></sub>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" bgcolor="#0A0E14">
+<code><b>INDEX</b></code> &nbsp;·&nbsp;
+<code><b>§ I. FRONT PAGE</b></code> &nbsp;·&nbsp;
+<code><b>§ II. FEATURED STORIES</b></code> &nbsp;·&nbsp;
+<code><b>§ III. CLASSIFIEDS</b></code> &nbsp;·&nbsp;
+<code><b>§ IV. ARCHIVE</b></code> &nbsp;·&nbsp;
+<code><b>§ V. CORRESPONDENCE</b></code>
+</td>
+</tr>
+</table>
+
+</div>
 
 </div>
 
@@ -118,6 +133,8 @@ Event management tool for tracking wedding guests, RSVPs, and gifts.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=4" width="100%" />
 
+
+
 ## 🗂️ Section C · Classifieds: Skills on Offer
 
 <table>
@@ -150,6 +167,8 @@ Event management tool for tracking wedding guests, RSVPs, and gifts.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=4" width="100%" />
 
+
+
 ## 🕰️ Section D · The Archive: Education & Training
 
 | Date | Entry |
@@ -160,6 +179,7 @@ Event management tool for tracking wedding guests, RSVPs, and gifts.
 | **Training** | C/C++, OOP, Java, PHP, algorithms, MySQL, then HTML/CSS/Bootstrap/JS/React/Tailwind |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=4" width="100%" />
+
 
 ## ✉️ Correspondence
 
