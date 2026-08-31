@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:F7F5F0,100:EEECE4&height=190&section=header&text=PENGLY%20Y.&fontSize=58&fontColor=1A1A18&fontAlignY=42&desc=ASPIRING%20SOFTWARE%20DEVELOPER%20%C2%B7%20BUILT%20ON%20CURIOSITY&descAlignY=64&descSize=17&descColor=2F4F6F&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:F7F5F0,100:EEECE4&height=190&section=header&text=PENGLY%20Y.&fontSize=58&fontColor=1A1A18&fontAlignY=38&desc=ASPIRING%20SOFTWARE%20DEVELOPER%20%C2%B7%20BUILT%20ON%20CURIOSITY&descAlignY=58&descSize=17&descColor=2F4F6F&animation=fadeIn" />
+
+<a href="https://github.com/ypengly">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+ideas+into+working+software.;Currently+building+with+C%23%2C+PHP%2C+and+React.;Open+to+internships+%26+entry-level+roles.;Phnom+Penh%2C+Cambodia+%F0%9F%87%B0%F0%9F%87%AD;&font=Inter&center=true&width=560&height=40&duration=3200&pause=900&color=2F4F6F&vCenter=true&size=17" alt="Typing SVG" />
+</a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1A1A18&height=3" />
 
@@ -11,6 +15,10 @@
 [![Status](https://img.shields.io/static/v1?label=STATUS&message=OPEN%20TO%20WORK&color=2F4F6F&style=for-the-badge&labelColor=1A1A18)](mailto:ypengly060@gmail.com)
 [![Location](https://img.shields.io/static/v1?label=BASED%20IN&message=PHNOM%20PENH&color=2F4F6F&style=for-the-badge&labelColor=1A1A18)](#)
 [![Languages](https://img.shields.io/static/v1?label=SPEAKS&message=KHMER%20%7C%20ENGLISH&color=2F4F6F&style=for-the-badge&labelColor=1A1A18)](#)
+
+<br>
+
+<sub>📑 &nbsp;<a href="#-front-page">Front Page</a> &nbsp;·&nbsp; <a href="#-section-b--featured-stories">Featured Stories</a> &nbsp;·&nbsp; <a href="#-section-d--classifieds-skills-on-offer">Classifieds</a> &nbsp;·&nbsp; <a href="#-section-e--by-the-numbers">By the Numbers</a> &nbsp;·&nbsp; <a href="#-section-f--the-archive-education--training">Archive</a> &nbsp;·&nbsp; <a href="#-correspondence">Correspondence</a></sub>
 
 </div>
 
@@ -142,12 +150,20 @@ Event management tool for tracking wedding guests, RSVPs, and gifts.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ypengly&show_icons=true&theme=transparent&title_color=2F4F6F&text_color=1A1A18&icon_color=2F4F6F&bg_color=F7F5F0&border_color=CAC6BA&hide_border=false&border_radius=0" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ypengly&background=F7F5F0&border=CAC6BA&ring=2F4F6F&fire=2F4F6F&currStreakLabel=1A1A18&currStreakNum=1A1A18&sideLabels=55534C&sideNums=1A1A18&dates=83807A&border_radius=0" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ypengly&show_icons=true&hide_title=false&title_color=2F4F6F&text_color=1A1A18&icon_color=2F4F6F&bg_color=00000000&border_color=CAC6BA&hide_border=false&border_radius=0&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ypengly&background=00000000&border=CAC6BA&ring=2F4F6F&fire=2F4F6F&currStreakLabel=1A1A18&currStreakNum=1A1A18&sideLabels=55534C&sideNums=1A1A18&dates=83807A&border_radius=0" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypengly&layout=compact&theme=transparent&title_color=2F4F6F&text_color=1A1A18&bg_color=F7F5F0&border_color=CAC6BA&hide_border=false&border_radius=0" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypengly&layout=compact&title_color=2F4F6F&text_color=1A1A18&bg_color=00000000&border_color=CAC6BA&hide_border=false&border_radius=0&langs_count=8" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ypengly&theme=gruvbox&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
 
 </div>
+
+> **Note on this section:** if any card above still shows a broken-image icon on your live profile, it's almost always the public `vercel.app` stats service being rate-limited (a very common, well-documented issue — not a mistake in your markdown). Two reliable fixes:
+> 1. Right-click each broken image → open in new tab → if it shows a JSON error, wait a few minutes and hard-refresh (GitHub caches these aggressively — you may need to append `&cache=` + a random number to force a refresh once).
+> 2. For a permanent fix, deploy your own free copy of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) to your own Vercel account, then swap the domain in the URLs above for yours.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=CAC6BA&height=1" width="100%" />
 
