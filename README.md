@@ -16,7 +16,7 @@
 
 <br><br>
 
-[![Status](https://img.shields.io/static/v1?label=CURRENTLY&message=SOFTWARE%20DEV%20%40%20SINCH&color=2F4F6F&style=for-the-badge&labelColor=0A0E14)](https://www.linkedin.com/in/y-pengly-276720423/)
+[![Status](https://img.shields.io/static/v1?label=CURRENTLY&message=WORKING%20AT%20%40%20SINCH&color=2F4F6F&style=for-the-badge&labelColor=0A0E14)](https://www.linkedin.com/in/y-pengly-276720423/)
 [![Location](https://img.shields.io/static/v1?label=BASED%20IN&message=PHNOM%20PENH&color=2F4F6F&style=for-the-badge&labelColor=0A0E14)](#)
 [![Languages](https://img.shields.io/static/v1?label=SPEAKS&message=KHMER%20%7C%20ENGLISH&color=2F4F6F&style=for-the-badge&labelColor=0A0E14)](#)
 
