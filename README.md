@@ -1,184 +1,254 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:F7F5F0,100:EEECE4&height=190&section=header&text=PENGLY%20Y.&fontSize=58&fontColor=1A1A18&fontAlignY=42&desc=ASPIRING%20SOFTWARE%20DEVELOPER%20%C2%B7%20BUILT%20ON%20CURIOSITY&descAlignY=64&descSize=17&descColor=2F4F6F&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A18&height=2&section=header" width="100%"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1A1A18&height=3" />
+<br>
 
-<sub>`VOL. I — No. 001` &nbsp;·&nbsp; `PHNOM PENH, CAMBODIA` &nbsp;·&nbsp; `FILED UNDER: INFORMATION TECHNOLOGY`</sub>
+# PENGLY Y.
 
-<br><br>
+<sub>SOFTWARE DEVELOPER · BUILDING PRACTICAL DIGITAL SYSTEMS</sub>
 
-[![Status](https://img.shields.io/static/v1?label=STATUS&message=OPEN%20TO%20WORK&color=2F4F6F&style=for-the-badge&labelColor=1A1A18)](mailto:ypengly060@gmail.com)
-[![Location](https://img.shields.io/static/v1?label=BASED%20IN&message=PHNOM%20PENH&color=2F4F6F&style=for-the-badge&labelColor=1A1A18)](#)
-[![Languages](https://img.shields.io/static/v1?label=SPEAKS&message=KHMER%20%7C%20ENGLISH&color=2F4F6F&style=for-the-badge&labelColor=1A1A18)](#)
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=15&duration=3200&pause=1400&color=55534C&center=true&vCenter=true&width=560&height=30&letterSpacing=4px&lines=VOL.+I+%E2%80%94+ISSUE+001;PHNOM+PENH+%C2%B7+CAMBODIA;FILED+UNDER%3A+INFORMATION+TECHNOLOGY" alt="masthead"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=CAC6BA&height=1&section=header" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=CAC6BA&height=1" width="100%" />
+<br>
 
-## 📰 Front Page
+<table width="100%">
+<tr>
+<td align="center">AVAILABLE&nbsp;FOR&nbsp;WORK</td>
+<td align="center">·</td>
+<td align="center">SOFTWARE&nbsp;·&nbsp;MOBILE&nbsp;·&nbsp;WEB&nbsp;·&nbsp;IT</td>
+<td align="center">·</td>
+<td align="center">KHMER&nbsp;/&nbsp;ENGLISH</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ============================================================ -->
+<!-- 00 — FRONT PAGE -->
+<!-- ============================================================ -->
+
+### 00 ─────────────────────────────────── FRONT PAGE
+
+**ASPIRING SOFTWARE DEVELOPER — BUILT ON CURIOSITY**
 
 > *"Adaptable in new environments, driven by curiosity, and always looking for ways to turn technology into practical solutions."*
 
-Recent graduate with a **B.Sc. in Computer Science & Engineering** (Royal University of Phnom Penh) and a **B.A. in English — Professional Communication** (Institute of Foreign Languages). I build practical software and communicate it clearly — currently open to internships, entry-level, and freelance work in software, mobile, or IT.
+Recent graduate with a **B.Sc. in Computer Science & Engineering** from the Royal University of Phnom Penh, and a **B.A. in English — Professional Communication** from the Institute of Foreign Languages.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=CAC6BA&height=1" width="100%" />
+I build practical software and communicate technical ideas clearly. My interests sit at the intersection of software development, mobile applications, web systems, and IT infrastructure.
 
-## 📖 Section B — Featured Stories
+<br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<!-- ============================================================ -->
+<!-- 01 — FEATURED WORK -->
+<!-- ============================================================ -->
 
-### 💻 Café System — Smart POS Platform
-![C#](https://img.shields.io/static/v1?label=&message=C%23.NET&color=EEF1F4&style=flat-square&labelColor=EEF1F4&logo=csharp&logoColor=2F4F6F)
-![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=EEF1F4&style=flat-square&labelColor=EEF1F4&logo=postgresql&logoColor=2F4F6F)
+### 01 ─────────────────────────────────── SELECTED WORK
 
-Real-time café management system with orders, products, and reports — built using Strategy, Command, Observer, Template Method, and State design patterns.
+<br>
 
-</td>
-<td width="50%" valign="top">
+**01 / CAFÉ SYSTEM**
+<br>SMART POS PLATFORM
 
-### 🏨 The Front Desk, Online — Hotel Website
-![HTML](https://img.shields.io/static/v1?label=&message=HTML/CSS&color=EEF1F4&style=flat-square&labelColor=EEF1F4&logo=html5&logoColor=2F4F6F)
-![PHP](https://img.shields.io/static/v1?label=&message=PHP/MySQL&color=EEF1F4&style=flat-square&labelColor=EEF1F4&logo=php&logoColor=2F4F6F)
+`C# / .NET`&nbsp;&nbsp;&nbsp;`POSTGRESQL`
 
-Responsive hotel booking site with a PHP/MySQL backend handling reservations behind the scenes.
+Real-time café management system with orders, products, reports, and design-pattern-driven architecture.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+```
+CUSTOMER → ORDER → KITCHEN → PAYMENT → REPORTS
+```
 
-### 🧮 Foundations in Code
-![C++](https://img.shields.io/static/v1?label=&message=C%20/%20C%2B%2B&color=EEF1F4&style=flat-square&labelColor=EEF1F4&logo=cplusplus&logoColor=2F4F6F)
-![OOP](https://img.shields.io/static/v1?label=&message=OOP&color=EEF1F4&style=flat-square&labelColor=EEF1F4)
+`VIEW PROJECT →`
 
-A running collection of programs exploring object-oriented design, data structures, and algorithm efficiency.
+<sub>────────────────────────────────────────────</sub>
 
-</td>
-<td width="50%" valign="top">
+**02 / THE FRONT DESK, ONLINE**
+<br>HOTEL BOOKING PLATFORM
 
-### 🎲 Random Mini Tasks Generator
-![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=EEF1F4&style=flat-square&labelColor=EEF1F4&logo=javascript&logoColor=2F4F6F)
+`HTML / CSS`&nbsp;&nbsp;&nbsp;`PHP / MYSQL`
 
-A simple tool that generates quick random tasks to keep you productive — perfect for small daily challenges.
+Responsive hotel booking system with backend reservation management.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+```
+GUEST → ROOM → BOOKING → PAYMENT → ADMIN
+```
 
-### 🔲 QR Code Converter
-[**Launch Tool →**](https://ypengly.github.io/QR_code_coverter/)
+`VIEW PROJECT →`
 
-Instantly convert text or URLs into scannable QR codes. Simple, fast, free.
+<sub>────────────────────────────────────────────</sub>
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-### ✍️ Digital Signature Creator
-[**Launch Tool →**](https://ypengly.github.io/Digital-signature-creator/)
+<!-- ============================================================ -->
+<!-- 02 — TOOLS OF THE TRADE -->
+<!-- ============================================================ -->
 
-Draw, type, or upload a signature and download it as a transparent PNG.
+### 02 ─────────────────────────────────── TOOLS OF THE TRADE
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<table width="100%">
+<tr valign="top">
+<td width="25%">
 
-### 📚 Bac-II English Exam Archive
-[**Explore Archive →**](https://ypengly.github.io/Bac-II-English-Exam-Archive/)
+**PROGRAMMING**
 
-A comprehensive collection of past Bac-II English exams for exam prep.
+C
+<br>C++
+<br>C#
+<br>Java
+<br>PHP
+<br>Python
+<br>JavaScript
 
 </td>
-<td width="50%" valign="top">
+<td width="25%">
 
-### 💒 Wedding Guest & Gift Manager
-[**Launch Tool →**](https://ypengly.github.io/wedding-gift-tracker/)
+**WEB**
 
-Event management tool for tracking wedding guests, RSVPs, and gifts.
+HTML
+<br>CSS
+<br>Bootstrap
+<br>Tailwind
+<br>React
+
+</td>
+<td width="25%">
+
+**DATA**
+
+MySQL
+<br>PostgreSQL
+
+</td>
+<td width="25%">
+
+**TOOLS**
+
+Git
+<br>GitHub
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=CAC6BA&height=1" width="100%" />
-
-## 🗂️ Section D — Classifieds: Skills on Offer
-
-<table>
-<tr>
-<td valign="top" width="34%">
-
-**LANGUAGES**
-<br><br>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,php,python,js" />
-
-</td>
-<td valign="top" width="33%">
-
-**TOOLS & DATABASES**
-<br><br>
-<img src="https://skillicons.dev/icons?i=mysql,bootstrap,tailwind,react,git" />
-
-</td>
-<td valign="top" width="33%">
-
-**SPOKEN**
-<br><br>
-🇰🇭 Khmer — Native
 <br>
-🇬🇧 English — Upper-Intermediate
+
+<!-- ============================================================ -->
+<!-- 03 — THE NUMBERS -->
+<!-- ============================================================ -->
+
+### 03 ─────────────────────────────────── THE NUMBERS
+
+<table width="100%">
+<tr align="center">
+<td>
+
+### 03+
+YEARS LEARNING
+
+</td>
+<td>
+
+### 08
+SELECTED PROJECTS
+
+</td>
+<td>
+
+### 07+
+LANGUAGES / TECH
+
+</td>
+<td>
+
+### 01
+DEVELOPER
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=CAC6BA&height=1" width="100%" />
+<br>
 
-## 📊 Section E — By the Numbers
+<!-- ============================================================ -->
+<!-- 04 — THE ARCHIVE -->
+<!-- ============================================================ -->
 
-<div align="center">
+### 04 ─────────────────────────────────── THE ARCHIVE
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ypengly&show_icons=true&theme=transparent&title_color=2F4F6F&text_color=1A1A18&icon_color=2F4F6F&bg_color=F7F5F0&border_color=CAC6BA&hide_border=false&border_radius=0" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ypengly&background=F7F5F0&border=CAC6BA&ring=2F4F6F&fire=2F4F6F&currStreakLabel=1A1A18&currStreakNum=1A1A18&sideLabels=55534C&sideNums=1A1A18&dates=83807A&border_radius=0" />
+<table width="100%">
+<tr><td width="15%"><sub>2022</sub></td><td><b>HIGH SCHOOL DIPLOMA</b><br><sub>Srey Santhor High School</sub></td></tr>
+<tr><td colspan="2"><sub>│</sub></td></tr>
+<tr><td width="15%"><sub>2023—2026</sub></td><td><b>B.Sc. COMPUTER SCIENCE & ENGINEERING</b><br><sub>Royal University of Phnom Penh</sub></td></tr>
+<tr><td colspan="2"><sub>│</sub></td></tr>
+<tr><td width="15%"><sub>2023—2026</sub></td><td><b>B.A. ENGLISH — PROFESSIONAL COMMUNICATION</b><br><sub>Institute of Foreign Languages</sub></td></tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypengly&layout=compact&theme=transparent&title_color=2F4F6F&text_color=1A1A18&bg_color=F7F5F0&border_color=CAC6BA&hide_border=false&border_radius=0" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=CAC6BA&height=1" width="100%" />
-
-## 🕰️ Section F — The Archive: Education & Training
-
-| Date | Entry |
-|---|---|
-| **2022** | High School Diploma — Srey Santhor High School, Kampong Cham |
-| **2023 – 2026** | B.Sc. Computer Science & Engineering — Royal University of Phnom Penh |
-| **2023 – 2026** | B.A. English (Professional Communication) — Institute of Foreign Languages |
-| **Training** | C/C++, OOP, Java, PHP, algorithms, MySQL, then HTML/CSS/Bootstrap/JS/React/Tailwind |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=CAC6BA&height=1" width="100%" />
-
-## ✉️ Correspondence
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/static/v1?label=&message=PORTFOLIO&color=1A1A18&style=for-the-badge&logo=googlechrome&logoColor=F7F5F0)](https://ypengly.github.io/)
-[![LinkedIn](https://img.shields.io/static/v1?label=&message=LINKEDIN&color=2F4F6F&style=for-the-badge&logo=linkedin&logoColor=F7F5F0)](https://www.linkedin.com/in/y-pengly-276720423/)
-[![Telegram](https://img.shields.io/static/v1?label=&message=TELEGRAM&color=2F4F6F&style=for-the-badge&logo=telegram&logoColor=F7F5F0)](https://t.me/Pengly_27)
-[![Email](https://img.shields.io/static/v1?label=&message=EMAIL&color=1A1A18&style=for-the-badge&logo=gmail&logoColor=F7F5F0)](mailto:ypengly060@gmail.com)
+<sub>TRAINING &nbsp;·&nbsp; C/C++ &nbsp;·&nbsp; OOP &nbsp;·&nbsp; Java &nbsp;·&nbsp; PHP &nbsp;·&nbsp; Algorithms &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; HTML/CSS &nbsp;·&nbsp; Bootstrap &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Tailwind</sub>
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ypengly&color=2F4F6F&style=for-the-badge&label=FRONT+PAGE+VIEWS)
+<!-- ============================================================ -->
+<!-- 05 — SIDE NOTES -->
+<!-- ============================================================ -->
 
-</div>
+### 05 ─────────────────────────────────── SIDE NOTES
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1A1A18&height=3" />
+```
+01 / QR CODE CONVERTER ........................ VIEW →
+02 / DIGITAL SIGNATURE CREATOR ................ VIEW →
+03 / BAC-II ENGLISH EXAM ARCHIVE .............. VIEW →
+04 / WEDDING GUEST & GIFT MANAGER ............. VIEW →
+05 / RANDOM MINI TASKS GENERATOR .............. VIEW →
+```
+
+<br>
+
+<!-- ============================================================ -->
+<!-- 06 — CORRESPONDENCE -->
+<!-- ============================================================ -->
+
+### 06 ─────────────────────────────────── CORRESPONDENCE
+
+**LET'S BUILD SOMETHING USEFUL.**
+
+<table width="100%">
+<tr>
+<td>PORTFOLIO →</td>
+<td><a href="#">yourportfolio.com</a></td>
+</tr>
+<tr>
+<td>LINKEDIN →</td>
+<td><a href="#">linkedin.com/in/yourhandle</a></td>
+</tr>
+<tr>
+<td>TELEGRAM →</td>
+<td><a href="#">t.me/yourhandle</a></td>
+</tr>
+<tr>
+<td>EMAIL →</td>
+<td><a href="#">you@email.com</a></td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
-<sub>© 2026 PENGLY Y. &nbsp;·&nbsp; SET IN PLAYFAIR DISPLAY & INTER &nbsp;·&nbsp; BOENG KENG KANG III, PHNOM PENH</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=CAC6BA&height=1&section=header" width="100%"/>
+
+**PENGLY Y.**
+
+<sub>SOFTWARE · COMMUNICATION · CURIOSITY</sub>
+
+<sub>VOL. I · 2026 · PHNOM PENH, CAMBODIA</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A18&height=2&section=footer" width="100%"/>
+
 </div>
