@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:F7F5F0,100:EEECE4&height=190&section=header&text=PENGLY%20Y.&fontSize=58&fontColor=1A1A18&fontAlignY=38&desc=ASPIRING%20SOFTWARE%20DEVELOPER%20%C2%B7%20BUILT%20ON%20CURIOSITY&descAlignY=58&descSize=17&descColor=2F4F6F&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1419,50:1A2332,100:2F4F6F&height=220&section=header&text=PENGLY%20Y.&fontSize=62&fontColor=F7F5F0&fontAlignY=38&desc=ASPIRING%20SOFTWARE%20DEVELOPER%20%C2%B7%20BUILT%20ON%20CURIOSITY&descAlignY=60&descSize=17&descColor=CADCF0&animation=fadeIn" />
 
 <a href="https://github.com/ypengly">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+ideas+into+working+software.;Currently+building+with+C%23%2C+PHP%2C+and+React.;Open+to+internships+%26+entry-level+roles.;Phnom+Penh%2C+Cambodia+%F0%9F%87%B0%F0%9F%87%AD;&font=Inter&center=true&width=560&height=40&duration=3200&pause=900&color=2F4F6F&vCenter=true&size=17" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+ideas+into+working+software.;Currently+building+with+C%23%2C+PHP%2C+and+React.;Open+to+internships+%26+entry-level+roles.;Phnom+Penh%2C+Cambodia+%F0%9F%87%B0%F0%9F%87%AD;&font=Fira+Code&center=true&width=560&height=40&duration=3200&pause=900&color=2F4F6F&vCenter=true&size=17" alt="Typing SVG" />
 </a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1A1A18&height=3" />
+<br>
 
 <sub>`VOL. I · No. 001` &nbsp;·&nbsp; `PHNOM PENH, CAMBODIA` &nbsp;·&nbsp; `FILED UNDER: INFORMATION TECHNOLOGY`</sub>
 
@@ -18,19 +18,19 @@
 
 <br>
 
-<sub>📑 &nbsp;<a href="#-front-page">Front Page</a> &nbsp;·&nbsp; <a href="#-section-b--featured-stories">Featured Stories</a> &nbsp;·&nbsp; <a href="#-section-d--classifieds-skills-on-offer">Classifieds</a> &nbsp;·&nbsp; <a href="#-section-e--by-the-numbers">By the Numbers</a> &nbsp;·&nbsp; <a href="#-section-f--the-archive-education--training">Archive</a> &nbsp;·&nbsp; <a href="#-correspondence">Correspondence</a></sub>
+<sub>📑 &nbsp;<a href="#-front-page">Front Page</a> &nbsp;·&nbsp; <a href="#-section-b--featured-stories">Featured Stories</a> &nbsp;·&nbsp; <a href="#-section-c--classifieds-skills-on-offer">Classifieds</a> &nbsp;·&nbsp; <a href="#-section-d--the-archive-education--training">Archive</a> &nbsp;·&nbsp; <a href="#-correspondence">Correspondence</a></sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=CAC6BA&height=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=4" width="100%" />
 
 ## 📰 Front Page
 
 > *"Adaptable in new environments, driven by curiosity, and always looking for ways to turn technology into practical solutions."*
 
-Recent graduate with a **B.Sc. in Computer Science & Engineering** (Royal University of Phnom Penh) and a **B.A. in English · Professional Communication** (Institute of Foreign Languages). I build practical software and communicate it clearly · currently open to internships, entry-level, and freelance work in software, mobile, or IT.
+Recent graduate with a **B.Sc. in Computer Science & Engineering** (Royal University of Phnom Penh) and a **B.A. in English · Professional Communication** (Institute of Foreign Languages). I build practical software and communicate it clearly — currently open to internships, entry-level, and freelance work in software, mobile, or IT.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=CAC6BA&height=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=4" width="100%" />
 
 ## 📖 Section B · Featured Stories
 
@@ -42,7 +42,7 @@ Recent graduate with a **B.Sc. in Computer Science & Engineering** (Royal Univer
 ![C#](https://img.shields.io/static/v1?label=&message=C%23.NET&color=EEF1F4&style=flat-square&labelColor=EEF1F4&logo=csharp&logoColor=2F4F6F)
 ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=EEF1F4&style=flat-square&labelColor=EEF1F4&logo=postgresql&logoColor=2F4F6F)
 
-Real-time café management system with orders, products, and reports · built using Strategy, Command, Observer, Template Method, and State design patterns.
+Real-time café management system with orders, products, and reports — built using Strategy, Command, Observer, Template Method, and State design patterns.
 
 </td>
 <td width="50%" valign="top">
@@ -70,7 +70,7 @@ A running collection of programs exploring object-oriented design, data structur
 ### 🎲 Random Mini Tasks Generator
 ![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=EEF1F4&style=flat-square&labelColor=EEF1F4&logo=javascript&logoColor=2F4F6F)
 
-A simple tool that generates quick random tasks to keep you productive · perfect for small daily challenges.
+A simple tool that generates quick random tasks to keep you productive — perfect for small daily challenges.
 
 </td>
 </tr>
@@ -112,9 +112,9 @@ Event management tool for tracking wedding guests, RSVPs, and gifts.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=CAC6BA&height=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=4" width="100%" />
 
-## 🗂️ Section D · Classifieds: Skills on Offer
+## 🗂️ Section C · Classifieds: Skills on Offer
 
 <table>
 <tr>
@@ -144,24 +144,9 @@ Event management tool for tracking wedding guests, RSVPs, and gifts.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=CAC6BA&height=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=4" width="100%" />
 
-## 📊 Section E · By the Numbers
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ypengly&show_icons=true&hide_title=false&title_color=2F4F6F&text_color=1A1A18&icon_color=2F4F6F&bg_color=00000000&border_color=CAC6BA&hide_border=false&border_radius=0&count_private=true" />
-<img height="165" src="https://streak-stats.demolab.com/?user=ypengly&background=00000000&border=CAC6BA&ring=2F4F6F&fire=2F4F6F&currStreakLabel=1A1A18&currStreakNum=1A1A18&sideLabels=55534C&sideNums=1A1A18&dates=83807A&border_radius=0" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypengly&layout=compact&title_color=2F4F6F&text_color=1A1A18&bg_color=00000000&border_color=CAC6BA&hide_border=false&border_radius=0&langs_count=8" />
-
-</div>
-
-<sub>Stat cards pull live from GitHub · if one shows a broken-image icon, hard-refresh the page (these are cached and occasionally rate-limited by the free hosting service behind them).</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=CAC6BA&height=1" width="100%" />
-
-## 🕰️ Section F · The Archive: Education & Training
+## 🕰️ Section D · The Archive: Education & Training
 
 | Date | Entry |
 |---|---|
@@ -170,24 +155,28 @@ Event management tool for tracking wedding guests, RSVPs, and gifts.
 | **2023 – 2026** | B.A. English (Professional Communication) · Institute of Foreign Languages |
 | **Training** | C/C++, OOP, Java, PHP, algorithms, MySQL, then HTML/CSS/Bootstrap/JS/React/Tailwind |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=CAC6BA&height=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=4" width="100%" />
 
 ## ✉️ Correspondence
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/static/v1?label=&message=PORTFOLIO&color=1A1A18&style=for-the-badge&logo=googlechrome&logoColor=F7F5F0)](https://ypengly.github.io/)
-[![LinkedIn](https://img.shields.io/static/v1?label=&message=LINKEDIN&color=2F4F6F&style=for-the-badge&logo=linkedin&logoColor=F7F5F0)](https://www.linkedin.com/in/y-pengly-276720423/)
-[![Telegram](https://img.shields.io/static/v1?label=&message=TELEGRAM&color=2F4F6F&style=for-the-badge&logo=telegram&logoColor=F7F5F0)](https://t.me/Pengly_27)
-[![Email](https://img.shields.io/static/v1?label=&message=EMAIL&color=1A1A18&style=for-the-badge&logo=gmail&logoColor=F7F5F0)](mailto:ypengly060@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=LINKEDIN&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=F7F5F0)](https://www.linkedin.com/in/y-pengly-276720423/)
+[![Telegram](https://img.shields.io/static/v1?label=&message=TELEGRAM&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=F7F5F0)](https://t.me/Pengly_27)
+[![Email](https://img.shields.io/static/v1?label=&message=EMAIL&color=EA4335&style=for-the-badge&logo=gmail&logoColor=F7F5F0)](mailto:ypengly060@gmail.com)
 
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ypengly&color=2F4F6F&style=for-the-badge&label=FRONT+PAGE+VIEWS)
 
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+reading+the+front+page.;Let%27s+build+something+together.;&font=Fira+Code&center=true&width=460&height=35&duration=3500&pause=1200&color=83807A&vCenter=true&size=15" alt="Typing SVG" />
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1A1A18&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F4F6F,50:1A2332,100:0F1419&height=140&section=footer" />
 
 <div align="center">
 <sub>© 2026 PENGLY Y. &nbsp;·&nbsp; SET IN PLAYFAIR DISPLAY & INTER &nbsp;·&nbsp; BOENG KENG KANG III, PHNOM PENH</sub>
