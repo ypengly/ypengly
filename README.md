@@ -1,10 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,35:15243B,100:2F4F6F&height=230&section=header&text=PENGLY%20Y.&fontSize=64&fontColor=F7F5F0&fontAlignY=36&desc=WORKING%20AT%20%40%20SINCH%20%C2%B7%20BUILT%20ON%20CURIOSITY&descAlignY=60&descSize=17&descColor=A9C6E8&animation=fadeIn" />
-
-<a href="https://github.com/ypengly">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+ideas+into+working+software.;Building+with+C%23%2C+PHP%2C+and+React.;Currently+at+Sinch%2C+Phnom+Penh.;Always+chasing+the+next+curious+problem.;&font=Fira+Code&center=true&width=580&height=40&duration=3200&pause=1000&color=2F4F6F&vCenter=true&size=17" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:006994,35:0088A9,65:2F4F6F,100:0A2E4F&height=230&section=header&text=PENGLY%20Y.&fontSize=64&fontColor=E8F4F8&fontAlignY=36&desc=WORKING%20AT%20%40%20SINCH%20%C2%B7%20BUILT%20ON%20CURIOSITY&descAlignY=60&descSize=17&descColor=7EC8E3&animation=fadeIn" /><a href="https://github.com/ypengly"> <img src="https://readme-typing-svg.demolab.com/?lines=Turning+ideas+into+working+software.;Building+with+C%23%2C+PHP%2C+and+React.;Currently+at+Sinch%2C+Phnom+Penh.;Always+chasing+the+next+curious+problem.;&font=Fira+Code&center=true&width=580&height=40&duration=3200&pause=1000&color=4ECDC4&vCenter=true&size=17" alt="Typing SVG" /> </a><p align="center"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" /> </p>
 
 <br>
 
@@ -200,7 +196,7 @@ Event management tool for tracking wedding guests, RSVPs, and gifts.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F4F6F,65:15243B,100:0A0E14&height=150&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:006994,50:2F4F6F,100:0A0E14&height=150&section=footer" />
 
 <div align="center">
 <sub>© 2026 PENGLY Y. &nbsp;·&nbsp; SET IN PLAYFAIR DISPLAY & INTER &nbsp;·&nbsp; BOENG KENG KANG III, PHNOM PENH</sub>
