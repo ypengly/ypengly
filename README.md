@@ -43,7 +43,7 @@
 
 > *"Adaptable in new environments, driven by curiosity, and always looking for ways to turn technology into practical solutions."*
 
-Software developer at **Sinch**, with a **B.Sc. in Computer Science & Engineering** (Royal University of Phnom Penh) and a **B.A. in English · Professional Communication** (Institute of Foreign Languages). I build practical software and communicate it clearly.
+Currently working at **Sinch**, with a **B.Sc. in Computer Science & Engineering** (Royal University of Phnom Penh) and a **B.A. in English · Professional Communication** (Institute of Foreign Languages). I build practical software and communicate it clearly.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=4" width="100%" />
 
